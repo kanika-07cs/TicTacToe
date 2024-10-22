@@ -1,0 +1,18 @@
+*{
+    background-image: url("teal-butterfly-abstract-beautiful.jpg");
+    color: antiquewhite;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.display{
+    background-image: url("wood-back.jpg");
+    background-size: contain;
+    width: 700px;
+    height: 600px;
+}
