@@ -1,0 +1,22 @@
+*{
+    background-image: url("teal-butterfly-abstract-beautiful.jpg");
+    color: antiquewhite;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.in1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    font-size: 30px;
+}
+button{
+    font-size: 40px;
+    background-image: none;
+    background-color: crimson;
+    border: 4px solid rgb(49, 14, 14);
+}
+button:hover{
+    background-color: chartreuse;
+}
