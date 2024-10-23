@@ -19,7 +19,7 @@
 .tile{
     display: grid;
     grid-template-columns:repeat(3,auto);
-    width: 200px;
+    width: 150px;
     margin: 80px;
     align-items: center;
 }
@@ -32,4 +32,23 @@
     border-radius: 8px;
     font-size: 50px;
     cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.restart{
+    background-image: none;
+    border: none;
+    margin: 5px;
+    padding: 5px;
+    background-color: green;
+    font-size: 25px;
+}
+.end{
+    background-image: none;
+    border: none;
+    margin: 5px;
+    padding: 5px;
+    background-color: green;
+    font-size: 25px;
 }
