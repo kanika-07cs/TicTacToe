@@ -52,3 +52,11 @@
     background-color: green;
     font-size: 25px;
 }
+#restart:hover{
+    color: blue;
+    background-color: darkseagreen;
+}
+#new-game:hover{
+    color: blue;
+    background-color: darkseagreen;
+}
